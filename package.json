@@ -1,0 +1,13 @@
+{
+  "name": "@parivaibhav/smart-env",
+  "version": "1.1.0",
+  "description": "A modern environment variable manager with auto-loading, validation and safe getters.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": ["env", "environment", "dotenv", "config", "loader"],
+  "author": "Vaibhav Pari",
+  "license": "MIT"
+}
