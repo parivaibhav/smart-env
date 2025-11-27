@@ -25,5 +25,8 @@ Perfect for MERN, Express, CLI tools, and scalable backend projects.
 Install via npm:
 
 ```sh
-npm install smart-env
+npm install @parivaibhav/smart-env
 ```
+
+
+### Made by VaibhavPari
